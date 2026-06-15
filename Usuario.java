@@ -1,1 +1,1 @@
-"class Usuario {} "
+"public void login() {} "
